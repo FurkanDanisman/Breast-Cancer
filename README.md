@@ -9,7 +9,7 @@ This study consists of 3 main steps.
   - Two-Stage Log Regression: Matlab - [Paper-2](https://www.tandfonline.com/doi/abs/10.1198/016214504000000124?casa_token=dTIaCX02L30AAAAA:S8juI-4-Vgtfi0B5ksb7eUHdgAif9kSlEkCO9hqPX4fL0yPwwCSGmHaDlMNL9Zo3c27jDN9J6g)
 - Integrate the two algorithm models together.
   - Theoretic
-  - Through rogramming.
+  - Through programming.
 - Analyze the data from Ankara City Hospital Oncology Department to predict the long-term risk of breast cancer in women.
 
 
