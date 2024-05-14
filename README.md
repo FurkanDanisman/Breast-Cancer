@@ -11,3 +11,5 @@ This study consists of 3 main steps.
   - Theoretic
   - Through rogramming.
 - Analyze the data from Ankara City Hospital Oncology Department to predict the long-term risk of breast cancer in women.
+
+
