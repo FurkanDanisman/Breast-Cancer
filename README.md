@@ -8,7 +8,7 @@ Breast cancer remains one of the most common and fatal cancers affecting women w
 
 ## Code Structure 
 
-- Two Phase Model (TPM) consists of the model and descriptive analysis of the data.
-- Exploratory Data Analysis mostly consist of data visualization (Heatmaps, barplots, and etc.)
-- Power study.
+- Two Phase Model (TPM) consists of the model and descriptive analysis of the data. [TPM](https://github.com/FurkanDanisman/Breast-Cancer/blob/main/TPM-1.R)
+- Exploratory Data Analysis mostly consist of data visualization (Heatmaps, barplots, and etc.) [EDA](https://github.com/FurkanDanisman/Breast-Cancer/blob/main/EDA-MEMEDansite.R)
+- Power study. [PS](https://github.com/FurkanDanisman/Breast-Cancer/blob/main/Power-Study-plots.R)
 
